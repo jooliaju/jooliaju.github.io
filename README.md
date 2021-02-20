@@ -1,2 +1,2 @@
 # jooliaju.github.io
-Julia Ju's Personal Website
+Personal website coming soon...
